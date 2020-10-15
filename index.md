@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 ```
 
-[Link](https://i.ibb.co/1Qv5S9m/PROJECT-3-map-snapshot.jpg)
+![](https://i.ibb.co/1Qv5S9m/PROJECT-3-map-snapshot.jpg)
 
 ## PROJECT 1: Sentiment Analysis
 **Class:** Data Analysis
