@@ -29,7 +29,29 @@ Syntax highlighted code block
 
 ## PROJECT 1: Sentiment Analysis
 Class: Data Analysis
+
 ```
 
 
 ```
+
+
+## PROJECT 2: 
+Class: Advance Projects
+
+Link to project: https://ehannell.github.io/covid19_sp500/
+
+
+```
+This project was created to show the impact of COVID-19 on the US finanical markets.
+
+```
+
+
+
+
+```
+**Bold** and _Italic_ and `Code` text
+
+```
+
