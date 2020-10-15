@@ -44,10 +44,11 @@ This project was created to show the impact of COVID-19 on the US finanical mark
 
 ```
 
-![](https://i.ibb.co/1Qv5S9m/PROJECT-3-map-snapshot.jpg)
-
 ## PROJECT 3: Planned Construction as Untapped Potential AirBnb Revenue
 **Class:** Programming for Cultural Heritage
+
+
+![](https://i.ibb.co/1Qv5S9m/PROJECT-3-map-snapshot.jpg)
 
 Link to project: https://ehannell.github.io/INFO664-01-Final-Project/
 ```
