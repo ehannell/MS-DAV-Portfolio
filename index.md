@@ -48,7 +48,7 @@ This project was created to show the impact of COVID-19 on the US finanical mark
 **Class:** Programming for Cultural Heritage
 
 
-![](https://i.ibb.co/1Qv5S9m/PROJECT-3-map-snapshot.jpg)
+![](https://i.ibb.co/1Qv5S9m/PROJECT-3-map-snapshot.jpg =100x100)
 
 Link to project: https://ehannell.github.io/INFO664-01-Final-Project/
 ```
