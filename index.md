@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+# Graduate Portfolio
+### by Erik Hannell, M.Sc. Data Analytics & Visualization
 
 You can use the [editor on GitHub](https://github.com/ehannell/dav_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## INTRODUCTION
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This portfolio consists of select projects conducted during my four semesters pursuing the Master's degree in Data Analytics & Visualizations at Pratt Institute School of Information.   
 
 ```markdown
 Syntax highlighted code block
