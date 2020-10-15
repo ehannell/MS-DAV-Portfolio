@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 
 ## PROJECT 1: Sentiment Analysis
-Class: Data Analysis
+**Class:** Data Analysis
 
 ```
 
@@ -37,7 +37,7 @@ Class: Data Analysis
 
 
 ## PROJECT 2: COVID-19 - Stock Market Impact Analysis
-Class: Advance Projects
+**Class:** Advance Projects
 
 Link to project: https://ehannell.github.io/covid19_sp500/
 
