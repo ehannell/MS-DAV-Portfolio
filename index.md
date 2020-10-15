@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://i.ibb.co/1Qv5S9m/PROJECT-3-map-snapshot.jpg) and ![Image](src)
 ```
 
 
