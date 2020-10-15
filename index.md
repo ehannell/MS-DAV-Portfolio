@@ -24,8 +24,6 @@ Syntax highlighted code block
 
 ```
 
-![](https://i.ibb.co/1Qv5S9m/PROJECT-3-map-snapshot.jpg)
-
 ## PROJECT 1: Sentiment Analysis
 **Class:** Data Analysis
 
@@ -46,7 +44,7 @@ This project was created to show the impact of COVID-19 on the US finanical mark
 
 ```
 
-
+![](https://i.ibb.co/1Qv5S9m/PROJECT-3-map-snapshot.jpg)
 
 ## PROJECT 3: Planned Construction as Untapped Potential AirBnb Revenue
 **Class:** Programming for Cultural Heritage
