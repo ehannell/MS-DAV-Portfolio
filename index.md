@@ -39,7 +39,7 @@ Syntax highlighted code block
 ## PROJECT 2: COVID-19 - Stock Market Impact Analysis
 **Class:** Advance Projects
 
-![](https://i.ibb.co/4NZXwVK/Data-Analysis-Project2-img.jpg)
+![](COVIDPICLINKHERE)
 
 Link to project: https://ehannell.github.io/covid19_sp500/
 
