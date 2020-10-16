@@ -7,22 +7,6 @@ You can use the [editor on GitHub](https://github.com/ehannell/dav_portfolio/edi
 
 This portfolio consists of select projects conducted during my four semesters pursuing the Master's degree in Data Analytics & Visualizations at Pratt Institute School of Information.   
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
 
 ## PROJECT 1: Sentiment Analysis
 
@@ -45,8 +29,6 @@ Syntax highlighted code block
 **Link to project:** https://ehannell.github.io/covid19_sp500/
 
 ![](https://i.ibb.co/qp78gGp/covidproject.jpg)
-
-
 
 
 ```
