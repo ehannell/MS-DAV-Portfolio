@@ -18,6 +18,42 @@ This portfolio consists of select projects conducted during my four semesters pu
 ![](https://i.ibb.co/rHtb7fz/data-analysis.jpg)
 
 ```
+Problem Statement:
+Investing has become more complex with the accessbility of technology.
+What problem did
+the project address?
+Your role?
+Key stakeholders?
+What will determine
+the success?
+Unique challenges?
+External factors?
+
+Approach definition:
+How did you
+attempt to solve this
+problem?
+What were your first
+steps?
+What did you know
+going in?
+What other projects
+did you consult and
+what did you learn?
+
+
+Work progress: 
+What steps did you
+take to address the
+problem?
+How did you reach
+your result(s)?
+How did you involve
+users or incorporate
+user feedback?
+Any unique or
+unexpected issues
+along the way?
 
 
 ```
