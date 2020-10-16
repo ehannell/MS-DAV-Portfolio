@@ -27,6 +27,9 @@ Syntax highlighted code block
 ## PROJECT 1: Sentiment Analysis
 **Class:** Data Analysis
 
+
+![](https://i.ibb.co/rHtb7fz/data-analysis.jpg)
+
 ```
 
 
