@@ -12,7 +12,8 @@ This portfolio consists of select projects conducted during my four semesters pu
 
 **Class:** Data Analysis
 
-**Link to project:** https://github.com/ehannell/dav_portfolio/blob/main/Final%20Project%20-%20Sentiment%20Analysis%20for%20Investment%20Research%20(Erik%20Hannell).pdf
+**Link to project:** [Sentiment Analysis for Investment Research](https://github.com/ehannell/dav_portfolio/blob/main/Final%20Project%20-%20Sentiment%20Analysis%20for%20Investment%20Research%20(Erik%20Hannell).pdf)
+
 
 ![](https://i.ibb.co/rHtb7fz/data-analysis.jpg)
 
@@ -26,7 +27,7 @@ This portfolio consists of select projects conducted during my four semesters pu
 
 **Class:** Advance Projects
 
-**Link to project:** https://ehannell.github.io/covid19_sp500/
+**Link to project:** [COVID-19 - Stock Market Impact Analysis](https://ehannell.github.io/covid19_sp500/)
 
 ![](https://i.ibb.co/qp78gGp/covidproject.jpg)
 
