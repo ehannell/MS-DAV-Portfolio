@@ -5,8 +5,23 @@ You can use the [editor on GitHub](https://github.com/ehannell/dav_portfolio/edi
 
 ## INTRODUCTION
 
-This portfolio consists of select projects conducted during my four semesters pursuing the Master's degree in Data Analytics & Visualizations at Pratt Institute School of Information.   
+This portfolio consists of select projects conducted during my four semesters pursuing the Master's degree in Data Analytics & Visualizations at Pratt Institute School of Information. 
 
+### GUIDANCE - DELETE THIS LATER !!!! 
+```
+State the problem:
+What problem did the project address? Your role? Key stakeholders? What will determine the success? Unique challenges? External factors?
+
+Define your approach:
+How did you attempt to solve this problem? What were your first steps? What did you know going in? What other projects did you consult and what did you learn?
+
+Document your steps:
+What steps did you take to address the problem? How did you reach your result(s)? How did you involve users or incorporate user feedback? Any unique or unexpected issues along the way?
+
+Present your products:
+What were your final deliverables? Where did the project succeed? Evidence of success? (stakeholders, users, professors, etc.) What did you learn? What would you do differently?
+
+```
 
 ## PROJECT 1: Sentiment Analysis
 
@@ -20,40 +35,12 @@ This portfolio consists of select projects conducted during my four semesters pu
 ```
 Problem Statement:
 Investing has become more complex with the accessbility of technology.
-What problem did
-the project address?
-Your role?
-Key stakeholders?
-What will determine
-the success?
-Unique challenges?
-External factors?
+
 
 Approach definition:
-How did you
-attempt to solve this
-problem?
-What were your first
-steps?
-What did you know
-going in?
-What other projects
-did you consult and
-what did you learn?
 
 
 Work progress: 
-What steps did you
-take to address the
-problem?
-How did you reach
-your result(s)?
-How did you involve
-users or incorporate
-user feedback?
-Any unique or
-unexpected issues
-along the way?
 
 
 ```
