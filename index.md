@@ -1,4 +1,4 @@
-# Graduate Portfolio
+# GRADUATE PORTFOLIO
 ### by Erik Hannell, M.Sc. Data Analytics & Visualization
 
 You can use the [editor on GitHub](https://github.com/ehannell/dav_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
