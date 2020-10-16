@@ -54,3 +54,5 @@ This project was created to show the impact of COVID-19 on the US finanical mark
 ## PROJECT 4: Thought Paper - How the Information Explosion is Disrupting Traditional Business Strategy
 
 **Link to project:** [Thought Paper](https://github.com/ehannell/dav_portfolio/blob/main/Foundations%20of%20Information%20-%20Thought%20Paper%20(ehannell).pdf)
+
+![](https://i.ibb.co/1svpyjN/thoughtpaper.jpg)
