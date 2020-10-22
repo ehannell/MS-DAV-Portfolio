@@ -32,19 +32,19 @@ What were your final deliverables? Where did the project succeed? Evidence of su
 
 ![](https://i.ibb.co/rHtb7fz/data-analysis.jpg)
 
-```
-Problem Statement:
+
+### Problem Statement:
 Investing has become more complex with the accessbility of technology.
 
 
-Approach definition:
+### Approach definition:
+xxx
 
-
-Work progress: 
-
+### Work progress: 
+xxx
 
 ```
-
+```
 
 ## PROJECT 2: COVID-19 - Stock Market Impact Analysis
 
