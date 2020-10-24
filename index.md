@@ -26,7 +26,7 @@ What were your final deliverables? Where did the project succeed? Evidence of su
 
 ```
 
-## PROJECT 1: Sentiment Analysis
+# PROJECT 1: Sentiment Analysis
 
 **Class:** Data Analysis
 **Expertise:** Research
@@ -44,10 +44,7 @@ I started with building a Python script using the twitteR-module, which allowed 
 ### Learning Outcome
 Not only did I learn the fundamentals of data analysis, and especially how to analyze text based data, but this project also improved my ability to conduct and convey data driven research. 
 
-```
-```
-
-## PROJECT 2: COVID-19 - Stock Market Impact Analysis
+# PROJECT 2: COVID-19 - Stock Market Impact Analysis
 
 **Class:** Advanced Projects
 **Expertise:** Technology
@@ -58,7 +55,7 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 ```
 ```
 
-## PROJECT 3: Amazon - A Look at the World's Highest Valued Company 
+# PROJECT 3: Amazon - A Look at the World's Highest Valued Company 
 
 **Class:** Information Visualization
 **Expertise:** Communication
@@ -69,7 +66,7 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 ```
 ```
 
-## PROJECT 4: Thought Paper - How the Information Explosion is Disrupting Traditional Business Strategy
+# PROJECT 4: Thought Paper - How the Information Explosion is Disrupting Traditional Business Strategy
 
 **Class:** Foundations of Information
 **Expertise:** Critical Perspectives
@@ -80,7 +77,7 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 ```
 ```
 
-## PROJECT 5: User Testing Report - Socialsolar Mobile Platform
+# PROJECT 5: User Testing Report - Socialsolar Mobile Platform
 
 **Class:** Usability Theory & Practice
 **Expertise:** User-Centered Design
