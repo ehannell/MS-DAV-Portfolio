@@ -10,6 +10,23 @@ This portfolio website consists of five different projects conducted while pursu
 - Technology
 - Critical Perspectives
 
+
+
+## Title
+
+### Place 1
+
+Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
+### Place 2
+
+Place one has the fun times of linking here, but I can also link back [here](#place-1).
+
+### Place's 3: other example
+
+Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
+
+
 ### GUIDANCE - DELETE THIS LATER !!!! 
 ```
 State the problem:
@@ -29,7 +46,7 @@ What were your final deliverables? Where did the project succeed? Evidence of su
 ## PROJECT 1: Sentiment Analysis
 
 **Class:** Data Analysis
-
+**Expertise:** Research
 **Link to project:** [Sentiment Analysis for Investment Research](https://github.com/ehannell/dav_portfolio/blob/main/Final%20Project%20-%20Sentiment%20Analysis%20for%20Investment%20Research%20(Erik%20Hannell).pdf)
 
 
