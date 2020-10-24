@@ -4,7 +4,8 @@
 ## INTRODUCTION
 
 This portfolio website consists of five different projects conducted while pursuing the Master's degree in Data Analytics & Visualizations at Pratt Institute School of Information. The projects have been selected to demonstrate expertise in:
-- Research
+- Research  [Research](#project-1-sentiment-analysis)
+
 - Communication
 - User-Centered Design
 - Technology
@@ -18,7 +19,7 @@ This portfolio website consists of five different projects conducted while pursu
 
 Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
 
-### Place 2
+### Research
 
 Place one has the fun times of linking here, but I can also link back [here](#place-1).
 
@@ -43,10 +44,10 @@ What were your final deliverables? Where did the project succeed? Evidence of su
 
 ```
 
-## PROJECT 1: Sentiment Analysis
+## Project 1: Sentiment Analysis
 
 **Class:** Data Analysis
-**Expertise:** Research
+#### Expertise: Research
 **Link to project:** [Sentiment Analysis for Investment Research](https://github.com/ehannell/dav_portfolio/blob/main/Final%20Project%20-%20Sentiment%20Analysis%20for%20Investment%20Research%20(Erik%20Hannell).pdf)
 
 
