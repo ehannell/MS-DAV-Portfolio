@@ -4,28 +4,11 @@
 ## INTRODUCTION
 
 This portfolio website consists of five different projects conducted while pursuing the Master's degree in Data Analytics & Visualizations at Pratt Institute School of Information. The projects have been selected to demonstrate expertise in:
-- Research  [Research](#project-1-sentiment-analysis)
-
+- [Research](#project-1-sentiment-analysis)
 - Communication
 - User-Centered Design
 - Technology
 - Critical Perspectives
-
-
-
-## Title
-
-### Place 1
-
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
-
-### Research
-
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
-
-### Place's 3: other example
-
-Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
 
 
 ### GUIDANCE - DELETE THIS LATER !!!! 
@@ -44,7 +27,7 @@ What were your final deliverables? Where did the project succeed? Evidence of su
 
 ```
 
-## Project 1: Sentiment Analysis
+## PROJECT 1: Sentiment Analysis
 
 **Class:** Data Analysis
 #### Expertise: Research
