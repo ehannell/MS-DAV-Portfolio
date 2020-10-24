@@ -35,6 +35,8 @@ What were your final deliverables? Where did the project succeed? Evidence of su
 
 ![](https://i.ibb.co/rHtb7fz/data-analysis.jpg)
 
+### About the project
+This was the final project in the data analysis class. The purpose of the research and paper was to investigate whether it would be possible to discern public attitude toward Tesla 
 
 ### Problem Statement:
 Investing has become more complex with the accessbility of technology.
@@ -51,16 +53,13 @@ xxx
 
 ## PROJECT 2: COVID-19 - Stock Market Impact Analysis
 
-**Class:** Advance Projects
+**Class:** Advanced Projects
 **Expertise:** Technology
 **Link to project:** [COVID-19 - Stock Market Impact Analysis](https://ehannell.github.io/covid19_sp500/)
 
 ![](https://i.ibb.co/qp78gGp/covidproject.jpg)
 
-
 ```
-This project was created to show the impact of COVID-19 on the US finanical markets.
-
 ```
 
 ## PROJECT 3: Amazon - A Look at the World's Highest Valued Company 
@@ -72,8 +71,6 @@ This project was created to show the impact of COVID-19 on the US finanical mark
 ![](https://i.ibb.co/9bw40Wb/amzon.png)
 
 ```
-
-
 ```
 
 ## PROJECT 4: Thought Paper - How the Information Explosion is Disrupting Traditional Business Strategy
@@ -84,10 +81,7 @@ This project was created to show the impact of COVID-19 on the US finanical mark
 
 ![](https://i.ibb.co/C2pb8N9/thoughtpaper.jpg)
 
-
 ```
-
-
 ```
 
 ## PROJECT 5: User Testing Report - Socialsolar Mobile Platform
