@@ -45,9 +45,9 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 
 # PROJECT 2: COVID-19 - Stock Market Impact Analysis
 
-**Class:** Advanced Projects
-**Expertise:** Technology
-**Link to project:** [COVID-19 - Stock Market Impact Analysis](https://ehannell.github.io/covid19_sp500/)
+- **Class:** Advanced Projects
+- **Expertise:** Technology
+- **Link to project:** [COVID-19 - Stock Market Impact Analysis](https://ehannell.github.io/covid19_sp500/)
 
 ![](https://i.ibb.co/qp78gGp/covidproject.jpg)
 
@@ -56,9 +56,9 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 
 # PROJECT 3: Amazon - A Look at the World's Highest Valued Company 
 
-**Class:** Information Visualization
-**Expertise:** Communication
-**Link to project:** [Planned Construction as Untapped Potential AirBnb Revenue](https://github.com/ehannell/dav_portfolio/blob/main/Amazon%20-%20a%20look%20at%20the%20world's%20highest%20valued%20company.pdf)
+- **Class:** Information Visualization
+- **Expertise:** Communication
+- **Link to project:** [Planned Construction as Untapped Potential AirBnb Revenue](https://github.com/ehannell/dav_portfolio/blob/main/Amazon%20-%20a%20look%20at%20the%20world's%20highest%20valued%20company.pdf)
 
 ![](https://i.ibb.co/9bw40Wb/amzon.png)
 
@@ -67,9 +67,9 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 
 # PROJECT 4: Thought Paper - How the Information Explosion is Disrupting Traditional Business Strategy
 
-**Class:** Foundations of Information
-**Expertise:** Critical Perspectives
-**Link to project:** [Thought Paper](https://github.com/ehannell/dav_portfolio/blob/main/Foundations%20of%20Information%20-%20Thought%20Paper%20(ehannell).pdf)
+- **Class:** Foundations of Information
+- **Expertise:** Critical Perspectives
+- **Link to project:** [Thought Paper](https://github.com/ehannell/dav_portfolio/blob/main/Foundations%20of%20Information%20-%20Thought%20Paper%20(ehannell).pdf)
 
 ![](https://i.ibb.co/C2pb8N9/thoughtpaper.jpg)
 
@@ -78,9 +78,9 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 
 # PROJECT 5: User Testing Report - Socialsolar Mobile Platform
 
-**Class:** Usability Theory & Practice
-**Expertise:** User-Centered Design
-**Link to project:** [User Testing Report](https://github.com/ehannell/dav_portfolio/blob/main/Socialsolar.pdf)
+- **Class:** Usability Theory & Practice
+- **Expertise:** User-Centered Design
+- **Link to project:** [User Testing Report](https://github.com/ehannell/dav_portfolio/blob/main/Socialsolar.pdf)
 
 ![](https://i.ibb.co/t3BY97G/userdesign.png)
 
