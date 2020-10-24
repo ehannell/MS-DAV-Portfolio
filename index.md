@@ -1,8 +1,6 @@
 # ERIK HANNELL PORTFOLIO
 ### Graduate portfolio by Erik Hannell, M.Sc. Data Analytics & Visualization
 
-You can use the [editor on GitHub](https://github.com/ehannell/dav_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 ## INTRODUCTION
 
 This portfolio website consists of five different projects conducted while pursuing the Master's degree in Data Analytics & Visualizations at Pratt Institute School of Information. The projects have been selected to demonstrate expertise in:
