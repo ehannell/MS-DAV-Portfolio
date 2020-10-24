@@ -5,11 +5,10 @@
 
 This portfolio website consists of five different projects conducted while pursuing the Master's degree in Data Analytics & Visualizations at Pratt Institute School of Information. The projects have been selected to demonstrate expertise in:
 - [Research](#project-1-sentiment-analysis)
-- Communication
-- User-Centered Design
-- Technology
-- Critical Perspectives
-
+- [Communication](#)
+- [User-Centered Design](#)
+- [Technology](#project-2-covid-19---stock-market-impact-analysis)
+- [Critical Perspectives](#project-4-thought-paper---how-the-information-explosion-is-disrupting-traditional-business-strategy)
 
 ### GUIDANCE - DELETE THIS LATER !!!! 
 ```
@@ -30,7 +29,7 @@ What were your final deliverables? Where did the project succeed? Evidence of su
 ## PROJECT 1: Sentiment Analysis
 
 **Class:** Data Analysis
-#### Expertise: Research
+**Expertise:** Research
 **Link to project:** [Sentiment Analysis for Investment Research](https://github.com/ehannell/dav_portfolio/blob/main/Final%20Project%20-%20Sentiment%20Analysis%20for%20Investment%20Research%20(Erik%20Hannell).pdf)
 
 
@@ -53,7 +52,7 @@ xxx
 ## PROJECT 2: COVID-19 - Stock Market Impact Analysis
 
 **Class:** Advance Projects
-
+**Expertise:** Technology
 **Link to project:** [COVID-19 - Stock Market Impact Analysis](https://ehannell.github.io/covid19_sp500/)
 
 ![](https://i.ibb.co/qp78gGp/covidproject.jpg)
