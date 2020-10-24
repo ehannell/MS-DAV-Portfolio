@@ -51,6 +51,15 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 
 ![](https://i.ibb.co/qp78gGp/covidproject.jpg)
 
+### About the project
+xxx
+
+### Method
+xxx
+
+### Learning Outcome
+xxx
+
 ```
 ```
 
@@ -61,6 +70,15 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 - **Link to project:** [Planned Construction as Untapped Potential AirBnb Revenue](https://github.com/ehannell/dav_portfolio/blob/main/Amazon%20-%20a%20look%20at%20the%20world's%20highest%20valued%20company.pdf)
 
 ![](https://i.ibb.co/9bw40Wb/amzon.png)
+
+### About the project
+xxx
+
+### Method
+xxx
+
+### Learning Outcome
+xxx
 
 ```
 ```
@@ -73,6 +91,15 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 
 ![](https://i.ibb.co/C2pb8N9/thoughtpaper.jpg)
 
+### About the project
+xxx
+
+### Method
+xxx
+
+### Learning Outcome
+xxx
+
 ```
 ```
 
@@ -83,6 +110,15 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 - **Link to project:** [User Testing Report](https://github.com/ehannell/dav_portfolio/blob/main/Socialsolar.pdf)
 
 ![](https://i.ibb.co/t3BY97G/userdesign.png)
+
+### About the project
+xxx
+
+### Method
+xxx
+
+### Learning Outcome
+xxx
 
 
 
