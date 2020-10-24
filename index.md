@@ -89,8 +89,9 @@ This project was created to show the impact of COVID-19 on the US finanical mark
 
 ```
 
-## PROJECT 5: Machine Learning - Predicting Customer Churn
+## PROJECT 5: User Testing Report - Analyzing Socialsolar platform
 
-**Link to project code:** 
-
+**Class:** Usability Theory & Practice
+**Expertise:** 
+**Link to project:** [User Testing Report](https://github.com/ehannell/dav_portfolio/blob/main/Socialsolar.pdf)
 
