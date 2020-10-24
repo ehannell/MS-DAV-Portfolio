@@ -28,10 +28,11 @@ What were your final deliverables? Where did the project succeed? Evidence of su
 
 # PROJECT 1: Sentiment Analysis
 
-**Class:** Data Analysis
-**Expertise:** Research
-**Link to project:** [Sentiment Analysis for Investment Research](https://github.com/ehannell/dav_portfolio/blob/main/Final%20Project%20-%20Sentiment%20Analysis%20for%20Investment%20Research%20(Erik%20Hannell).pdf)
-
+<p>
+<br>**Class:** Data Analysis
+<br>**Expertise:** Research
+<br>**Link to project:** [Sentiment Analysis for Investment Research](https://github.com/ehannell/dav_portfolio/blob/main/Final%20Project%20-%20Sentiment%20Analysis%20for%20Investment%20Research%20(Erik%20Hannell).pdf)
+</p>
 
 ![](https://i.ibb.co/rHtb7fz/data-analysis.jpg)
 
