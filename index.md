@@ -36,17 +36,13 @@ What were your final deliverables? Where did the project succeed? Evidence of su
 ![](https://i.ibb.co/rHtb7fz/data-analysis.jpg)
 
 ### About the project
-This was the final project in the data analysis class. The purpose of the research and paper was to investigate whether it would be possible to discern public attitude toward Tesla 
+This research paper was the final project in the data analysis class. The purpose of the paper was to investigate whether it would be possible to discern public attitude toward Tesla by analyzing data from Twitter. 
 
-### Problem Statement:
-Investing has become more complex with the accessbility of technology.
+### Method
+I started with building a Python script using the twitteR-module, which allowed me to scrape tweet data from Twitter. Once the connection had been set up and I had defined certain key words and criteria for defining what tweets I wanted to collect, I organized all the information into a large dataset. I imported the dataset into R, where I used the NRC-library to analyze the sentiment of each tweet. A new column was created, holding a positivity score for each tweet based on the NRC output. This column was used to determine the public sentiment toward Tesla over time. 
 
-
-### Approach definition:
-xxx
-
-### Work progress: 
-xxx
+### Learning Outcome
+Not only did I learn the fundamentals of data analysis, and especially how to analyze text based data, but this project also improved my ability to conduct and convey data driven research. 
 
 ```
 ```
