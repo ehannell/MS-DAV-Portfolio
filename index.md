@@ -10,21 +10,6 @@ This portfolio website consists of five different projects conducted while pursu
 - [Critical Perspectives](#project-4-thought-paper---how-the-information-explosion-is-disrupting-traditional-business-strategy)
 - [User-Centered Design](#project-5-user-testing-report---socialsolar-mobile-platform)
 
-### GUIDANCE - DELETE THIS LATER !!!! 
-```
-State the problem:
-What problem did the project address? Your role? Key stakeholders? What will determine the success? Unique challenges? External factors?
-
-Define your approach:
-How did you attempt to solve this problem? What were your first steps? What did you know going in? What other projects did you consult and what did you learn?
-
-Document your steps:
-What steps did you take to address the problem? How did you reach your result(s)? How did you involve users or incorporate user feedback? Any unique or unexpected issues along the way?
-
-Present your products:
-What were your final deliverables? Where did the project succeed? Evidence of success? (stakeholders, users, professors, etc.) What did you learn? What would you do differently?
-
-```
 
 # PROJECT 1: Sentiment Analysis
 
@@ -60,9 +45,6 @@ The website was built from scratch in Github and hosted as a Github page. The we
 ### Learning Outcome
 In addition to increased knowledge of working manipulating, analysing, and visualizing data in Python, this project was very educational in regards to technical capability. I learned to go from having several raw datasets to offering an interactive and informational view of that data on a website. The technologies that I learned to use in this project will prove essential for future projects relating to analyzing and visualizing data in a user friendly and accessible way.   
 
-```
-```
-
 # PROJECT 3: Amazon - A Look at the World's Highest Valued Company 
 
 - **Class:** Information Visualization
@@ -80,9 +62,6 @@ xxx
 ### Learning Outcome
 xxx
 
-```
-```
-
 # PROJECT 4: Thought Paper - How the Information Explosion is Disrupting Traditional Business Strategy
 
 - **Class:** Foundations of Information
@@ -99,9 +78,6 @@ xxx
 
 ### Learning Outcome
 xxx
-
-```
-```
 
 # PROJECT 5: User Testing Report - Socialsolar Mobile Platform
 
