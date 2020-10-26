@@ -20,7 +20,7 @@ This portfolio website consists of five different projects conducted while pursu
 ![](https://i.ibb.co/rHtb7fz/data-analysis.jpg)
 
 ### About the project
-This research paper was created for the final project in the data analysis class. The purpose of the paper was to investigate whether it would be possible to discern public attitude toward Tesla by analyzing data from Twitter. 
+This research paper constitutes the final project in the **Data Analysis** class. The purpose of the project was to investigate whether it would be possible to discern public attitude toward the electrical vehicle compnany Tesla by analyzing data from Twitter, and also explore whether correlating patterns between the sentiment extracted from tweets and the share price of the company. Sentiment swings were evident upon the completion of the data analysis, but determinig share price correlation would require further statistical analysis, which falls outside the scope of this project.   
 
 ### Method
 I started with building a Python script using the twitteR-module, which allowed me to scrape tweet data from Twitter. Once the connection had been set up and I had defined certain key words and criteria for defining what tweets I wanted to collect, I organized all the information into a large dataset. I imported the dataset into R, where I used the NRC-library to analyze the sentiment of each tweet. A new column was created, holding a positivity score for each tweet based on the NRC output. This column was used to determine the public sentiment toward Tesla over time. 
@@ -37,7 +37,7 @@ Not only did I learn the fundamentals of data analysis, especially analysis of t
 ![](https://i.ibb.co/qp78gGp/covidproject.jpg)
 
 ### About the project
-This interative data visaulziation website is was built for the advanced projects class. The website consists of 6 different interactive data visualizations which shows information about the COVID-19 pandemic, as well as the stock market, during the first 2-months of the virus outbreak. The purpose of the project was to make a platform that could be used by various users, regardless of financial market knowledge, to explore how the pandemic made an impact on the world economy.
+This interative data visaulziation website is was built for the **Advanced Projects** class. The website consists of 6 different interactive data visualizations which shows information about the COVID-19 pandemic, as well as the stock market, during the first 2-months of the virus outbreak. The purpose of the project was to make a platform that could be used by various users, regardless of financial market knowledge, to explore how the pandemic made an impact on the world economy.
 
 ### Method
 The website was built from scratch in Github and hosted as a Github page. The website design was kept minimalistic, with resemblance of a report. The data used for the visualization was derived from John Hopkins University (COVID-19 cases) and Yahoo Finance (financial data). I created the interactive charts using the Altair module in Python. The charts were exported as HTML code and integrated to the website, allowing for users to easily explore the information.  
@@ -54,7 +54,7 @@ In addition to increased knowledge of working manipulating, analysing, and visua
 ![](https://i.ibb.co/9bw40Wb/amzon.png)
 
 ### About the project
-This project, which was created for the information visualization class, is a visual presentation of the company Amazon Inc. Four Tableau dashboards are used to convey information found in the annual report, but also data from other sources, such as public sentiment derived by scraping and analyzing Twitter data.  
+This project, which was created for the **Information Visualization** class, is a visual presentation of the company Amazon Inc. Four Tableau dashboards are used to convey information found in the annual report, but also data from other sources, such as public sentiment derived by scraping and analyzing Twitter data.  
 
 ### Method
 The initial phase of the project consisted of several design and brainstorming exercises to decide on a dashboard format that would be efficient in communicating information to the user. After deciding on a structure, I carefully selected types of visualizations that best delivered the information. These steps eventually resulted in five different dashboards, starting with a size comparison to show just how large Amazon is, followed by three dashboards holding annual report information, and finally a dashboard page to show the public perception of Amazon. On the last page I also embedded a Wikipedia page to make it possible for the user to quickly learn about company criticism.    
@@ -71,13 +71,13 @@ This project helped me improve my ability to deliver various types of informatio
 ![](https://i.ibb.co/C2pb8N9/thoughtpaper.jpg)
 
 ### About the project
-xxx
+This thought paper stands out as the least technical compared to the other projects in this portfolio. It was written as part of the **Foundations of Information** class, and seeks to explore how the information explosion of the past several decades have disrupted traditional business strategy. Coming into this master's program with a background in business, I wanted to better understand how information technology hvae changed businesses that predates the this new technological innovations.      
 
 ### Method
-xxx
+The thought paper is largely based on a Ted-talk by Philip Evans, the founder of the media and internet division of the global firm Boston Consulting Group (BCG). In his presentation, “How data will transform business”, Evans provides reflections very much aligned with my paper's topic. In addition to Evans’s Ted-talk, I used scholarly articles that we read in class, historical data, and other expert statements in order to yield support for the ideas presented in the paper.
 
 ### Learning Outcome
-xxx
+In writing this paper I learned to think critically about how constant and immediate information access shapes our society. Throughout the duration of the Foundation of Information class, we studied the information explosion's impact, for better or worse, in various areas of society. By applying the critical thinking skills gained during the course, I was able to gain a better understanding about those impacts within business strategy, a professional area that I envision myself navigating in my career. 
 
 # PROJECT 5: User Testing Report - Socialsolar Mobile Platform
 
