@@ -57,7 +57,7 @@ In addition to increased knowledge of working manipulating, analysing, and visua
 This project, which was created for the information visualization class, is a visual presentation of the company Amazon Inc. Four Tableau dashboards are used to convey information found in the annual report, but also data from other sources, such as public sentiment derived by scraping and analyzing Twitter data.  
 
 ### Method
-
+The initial phase of the project consisted of several design and brainstorming exercises to decide on a dashboard format that would be efficient in communicating information to the user. After deciding on a structure, I carefully selected types of visualizations that best delivered the information. These steps eventually resulted in five different dashboards, starting with a size comparison to show just how large Amazon is, followed by three dashboards holding annual report information, and finally a dashboard page to show the public perception of Amazon. On the last page I also embedded a Wikipedia page to make it possible for the user to quickly learn about company criticism.    
 
 ### Learning Outcome
 This project helped me improve my ability to deliver various types of information by communicating through information visualizations. I learned how certain graphs are more suitable in conveying the underlying data, as well as how to set up the visualizations in a compelling and logical way that would help the user to understand the information. Furthermore, I was able to implement skills learned from other classes to further improve this information visualization project. For instance, I used the Python script used in the [research project](#project-1-sentiment-analysis) to analyze public perception of Amazon. 
