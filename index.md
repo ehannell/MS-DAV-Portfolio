@@ -1,4 +1,4 @@
-# ERIK HANNELL PORTFOLIO
+# ERIK HANNELL's PORTFOLIO
 ### Graduate portfolio by Erik Hannell, M.Sc. Data Analytics & Visualization
 
 ## INTRODUCTION
