@@ -67,7 +67,7 @@ By conducting this project, I learned the full
 
 - **Class:** Information Visualization
 - **Expertise:** Communication
-- **Link to project:** [Planned Construction as Untapped Potential AirBnb Revenue](https://github.com/ehannell/dav_portfolio/blob/main/Amazon%20-%20a%20look%20at%20the%20world's%20highest%20valued%20company.pdf)
+- **Link to project:** [Amazon - Company Dashboard Presenation](https://github.com/ehannell/dav_portfolio/blob/main/Amazon%20-%20a%20look%20at%20the%20world's%20highest%20valued%20company.pdf)
 
 ![](https://i.ibb.co/9bw40Wb/amzon.png)
 
