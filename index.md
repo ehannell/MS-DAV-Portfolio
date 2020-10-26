@@ -41,7 +41,7 @@ This research paper was created for the final project in the data analysis class
 I started with building a Python script using the twitteR-module, which allowed me to scrape tweet data from Twitter. Once the connection had been set up and I had defined certain key words and criteria for defining what tweets I wanted to collect, I organized all the information into a large dataset. I imported the dataset into R, where I used the NRC-library to analyze the sentiment of each tweet. A new column was created, holding a positivity score for each tweet based on the NRC output. This column was used to determine the public sentiment toward Tesla over time. 
 
 ### Learning Outcome
-Not only did I learn the fundamentals of data analysis, and especially how to analyze text based data, but this project also improved my ability to conduct and convey data driven research. 
+Not only did I learn the fundamentals of data analysis, especially analysis of text based data, but this project also improved my ability to conduct and convey data driven research. Furthermore, I gained experience in developnig complex research questions and how to choose appropriate analytical methods for approaching those questions.    
 
 # PROJECT 2: COVID-19 - Stock Market Impact Analysis
 
@@ -52,13 +52,13 @@ Not only did I learn the fundamentals of data analysis, and especially how to an
 ![](https://i.ibb.co/qp78gGp/covidproject.jpg)
 
 ### About the project
-xxx
+This interative data visaulziation website is was built for the advanced projects class. The website consists of 6 different interactive data visualizations which shows information about the COVID-19 pandemic, as well as the stock market, during the first 2-months of the virus outbreak. The purpose of the project was to make a platform that could be used by various users, regardless of financial market knowledge, to explore how the pandemic made an impact on the world economy.
 
 ### Method
-xxx
+The website was built from scratch in Github and hosted as a Github page. The website design was kept minimalistic, with resemblance of a report. The data used for the visualization was derived from John Hopkins University (COVID-19 cases) and Yahoo Finance (financial data). I created the interactive charts using the Altair module in Python. The charts were exported as HTML code and integrated to the website, allowing for users to easily explore the information.  
 
 ### Learning Outcome
-By conducting this project, I learned the full 
+In addition to increased knowledge of working manipulating, analysing, and visualizing data in Python, this project was very educational in regards to technical capability. I learned to go from having several raw datasets to offering an interactive and informational view of that data on a website. The technologies that I learned to use in this project will prove essential for future projects relating to analyzing and visualizing data in a user friendly and accessible way.   
 
 ```
 ```
