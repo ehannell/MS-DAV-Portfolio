@@ -31,6 +31,10 @@ I started with building a Python script using the twitteR-module, which allowed 
 ### Learning Outcome
 Not only did I learn the fundamentals of data analysis, especially analysis of text based data, but this project also improved my ability to conduct and convey data driven research. Furthermore, I gained experience in developnig complex research questions and how to choose appropriate analytical methods for approaching those questions.    
 
+<p>
+  <br>
+  </p>
+
 # PROJECT 2: COVID-19 - Stock Market Impact Analysis
 
 - **Class:** Advanced Projects
@@ -47,6 +51,10 @@ The website was built from scratch in Github and hosted as a Github page. The we
 
 ### Learning Outcome
 In addition to increased knowledge of working manipulating, analysing, and visualizing data in Python, this project was very educational in regards to technical capability. I learned to go from having several raw datasets to offering an interactive and informational view of that data on a website. The technologies that I learned to use in this project will prove essential for future projects relating to analyzing and visualizing data in a user friendly and accessible way.   
+
+<p>
+  <br>
+  </p>
 
 # PROJECT 3: Amazon - A Look at the World's Highest Valued Company 
 
@@ -65,6 +73,10 @@ The initial phase of the project consisted of several design and brainstorming e
 ### Learning Outcome
 This project helped me improve my ability to deliver various types of information by communicating through information visualizations. I learned how certain graphs are more suitable in conveying the underlying data, as well as how to set up the visualizations in a compelling and logical way that would help the user to understand the information. Furthermore, I was able to implement skills learned from other classes to further improve this information visualization project. For instance, I used the Python script used in the [research project](#project-1-sentiment-analysis) to analyze public perception of Amazon. 
 
+<p>
+  <br>
+  </p>
+
 # PROJECT 4: Thought Paper - How the Information Explosion is Disrupting Traditional Business Strategy
 
 - **Class:** Foundations of Information
@@ -81,6 +93,10 @@ The thought paper is largely based on a Ted-talk by Philip Evans, the founder of
 
 ### Learning Outcome
 In writing this paper I learned to think critically about how constant and immediate information access shapes our society. Throughout the duration of the Foundation of Information class, we studied the information explosion's impact, for better or worse, in various areas of society. By applying the critical thinking skills gained during the course, I was able to gain a better understanding about those impacts within business strategy, a professional area that I envision myself navigating in my career. 
+
+<p>
+  <br>
+  </p>
 
 # PROJECT 5: User Testing Report - Socialsolar Mobile Platform
 
