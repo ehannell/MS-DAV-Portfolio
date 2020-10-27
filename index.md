@@ -10,8 +10,6 @@ This portfolio website consists of five different projects conducted while pursu
 - [Critical Perspectives](#project-4-thought-paper---how-the-information-explosion-is-disrupting-traditional-business-strategy)
 - [User-Centered Design](#project-5-user-testing-report---socialsolar-mobile-platform)
 
-# ___________________________________________________________________________________________________________________________________________________________________________
-
 # PROJECT 1: Sentiment Analysis
 
 - **Class:** Data Analysis
