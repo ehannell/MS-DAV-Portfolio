@@ -107,10 +107,13 @@ In writing this paper I learned to think critically about how constant and immed
 ![](https://i.ibb.co/t3BY97G/userdesign.png)
 
 ### About the project
-xxx
+This project 
 
 ### Method
-xxx
+We 
+
+#### My role
+In addition to writing recommendation  was responsible for 
 
 ### Learning Outcome
 xxx
