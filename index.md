@@ -107,16 +107,13 @@ In writing this paper I learned to think critically about how constant and immed
 ![](https://i.ibb.co/t3BY97G/userdesign.png)
 
 ### About the project
-This project 
+This project was a group project carried out in the Usability Theory & Practice class. Our group was responsible for delivering a UX-design report, consisting of analysis, findings, and recommendations, to the New York-based company Social Solar, who was our client during the project. The report was focused on user testing, meaning that we - the researchers - analyzed a group of individuals while they were using Social Solar's online platform. This user analysis generate was used to come up with findings and recommendations to support Social Solar in their UX design strategy.    
 
 ### Method
-We 
+As mentioned above, we analyzed individuals as they were using Social Solar's online platform. However, before the actual user testing part of the project, a lot of preparations were made. We carefully designed the user session to make sure that our users interacted with the platform as they normally would in a real-world setting. This entailed, for instance, designing questions that the user would have to answer based on information that could be found somewhere on Social Solar's website. After the user testing we gathered all data that we had collected, and used that information to deliver design recommendations to our client - ultimately to improve the usability of their platform. 
 
 #### My role
-In addition to writing recommendation  was responsible for 
+In addition to generating one of our recommendations, I was responsible for developing our participant forms, which contained the user directions during the user test sessions. I was also in charge of data analysis and compiling our data so that it could be shared with our client in the report appendix.  
 
 ### Learning Outcome
-xxx
-
-
-
+This was a very educational project, as I learned how to design user testing sessions that could emulate real-world scenarios while providing a lot of useful data. I also learned how to redesign digital platforms in a way that would make them easier to use and certain functions easier understand. Futhermore, our group gained real-world experience in that we worked with an actual external client, that would use our recommmendations to improve their platform.   
