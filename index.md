@@ -2,8 +2,7 @@
 ### Graduate portfolio by Erik Hannell, M.Sc. Data Analytics & Visualization
 
 ## INTRODUCTION
-
-This portfolio website consists of five different projects conducted while pursuing the Master's degree in Data Analytics & Visualizations at Pratt Institute School of Information. The projects have been selected to demonstrate expertise in:
+This graduate portfolio is comprised of five projects that will demonstrate the skills & knowledged gained while pursuing the Master's Degree in Data Analytics & Visualzation at Pratt Institute School of Information. The projects covers the following five learning areas:
 - [Research](#project-1-sentiment-analysis)
 - [Technology](#project-2-covid-19---stock-market-impact-analysis)
 - [Communication](#project-3-amazon---a-look-at-the-worlds-highest-valued-company)
